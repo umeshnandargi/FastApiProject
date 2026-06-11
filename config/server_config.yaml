@@ -1,0 +1,4 @@
+ADDRESS : 0.0.0.0
+PORT : 50500
+
+model_name : "depression_model"
